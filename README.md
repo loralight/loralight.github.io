@@ -1,2 +1,0 @@
-# loralight.github.io
-website
